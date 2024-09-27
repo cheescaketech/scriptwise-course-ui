@@ -19,7 +19,9 @@ const Course = () => {
 
     return (
         <div>
-            <h2>{JSON.stringify(data)}</h2>
+            {!data ? <h1>Loading...</h1> :
+                <h1>{data.title}</h1>
+            }
         </div>
     )
 }
