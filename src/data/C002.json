@@ -1,0 +1,59 @@
+{
+    "_id": {
+        "$oid": "66f5c065073cd7fa722ee8ba"
+    },
+    "title": "Workshop on Vue JS Advanced Topics",
+    "whatYouWillMaster": [
+        "Master the entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver)",
+        "Build a complete, beautiful & real-world application from start to finish (API and server-side rendered website)",
+        "Build a fast, scalable, feature-rich RESTful API (includes filters, sorts, pagination, and much more)",
+        "Learn how Node really works behind the scenes: event loop, blocking vs non-blocking code, streams, modules, etc."
+    ],
+    "thisCourseOffersYou": [
+        "40 hours face to face video",
+        "Learn over virtual meet",
+        "Access to the recorded class",
+        "Certificate of completion"
+    ],
+    "courseContent": {
+        "lessons": {
+            "$numberInt": "15"
+        },
+        "topics": {
+            "$numberInt": "100"
+        },
+        "duration": {
+            "$numberInt": "40"
+        },
+        "accordion": [
+            {
+                "title": "Introduction to Course",
+                "topics": [
+                    "READ BEFORE YOU START!",
+                    "Let's Install Node.js Introduction",
+                    "Section Intro",
+                    "Running Javascript Outside the Browser"
+                ]
+            },
+            {
+                "title": "NPM Packages and Installations",
+                "topics": [
+                    "READ BEFORE YOU START!",
+                    "Let's Install Node.js Introduction",
+                    "Section Intro",
+                    "Running Javascript Outside the Browser"
+                ]
+            }
+        ]
+    },
+    "fees": {
+        "old": {
+            "$numberInt": "499"
+        },
+        "new": {
+            "$numberInt": "199"
+        },
+        "off": "60%"
+    },
+    "paymentLink": "https://pages.razorpay.com/pl_OPQhCt7FPgDtVM/view?course=Workshop%20on%20React%20JS%20Advanced%20Topics%20(COURSE%200002)"
+}
